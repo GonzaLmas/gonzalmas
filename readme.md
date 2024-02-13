@@ -5,7 +5,7 @@
 
 - 🔭 I'm currently working on **Ecosistemas**
 
-- 🌱 I'm currently learning **C#, .NET**
+- 🌱 I'm currently learning **C# and .NET**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
