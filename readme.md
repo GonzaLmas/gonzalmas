@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gonzalmas&label=Profile%20views&color=0e75b6&style=flat" alt="gonzalmas" /> </p>
 
-- 🔭 I'm currently working on **Ecosistemas**
+- 🔭 I'm currently working on **Mercado Libre**
 
-- 🌱 I'm currently learning **C# and .NET**
+- 🌱 I'm currently learning **Golang && .NET**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
