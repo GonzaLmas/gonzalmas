@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Gonzalo Lamas</h1>
-<h3 align="center">A .NET developer</h3>
+<h3 align="center">A backend developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gonzalmas&label=Profile%20views&color=0e75b6&style=flat" alt="gonzalmas" /> </p>
 
 - 🔭 I'm currently working on **Mercado Libre**
 
-- 🌱 I'm currently learning **Golang && .NET**
+- 🌱 I'm currently learning **Golang, Java, React && .NET**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
