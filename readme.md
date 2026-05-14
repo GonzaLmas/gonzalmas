@@ -15,4 +15,4 @@
 
 <h3 align="left">Portfolio:</h3>
 <p align="left">
-<a href="https://www.gonzalo-lamas.com/" target="blank"><img align="center" alt="gonzalo lamas" height="30" width="40" /></a>
+<a href="https://www.gonzalo-lamas.com/" target="blank"><img align="center" alt="gonzalo lamas" /></a>
