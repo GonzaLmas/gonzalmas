@@ -12,5 +12,7 @@
 <a href="https://www.linkedin.com/in/gonzalo-lamas-eze/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gonzalo lamas" height="30" width="40" /></a>
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=gonzalmas&show_icons=true&locale=en&layout=compact" alt="gonzalmas" /></p>
 
+<h3 align="left">Portfolio:</h3>
+<p align="left">
+<a href=https://www.gonzalo-lamas.com/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gonzalo lamas" height="30" width="40" /></a>
